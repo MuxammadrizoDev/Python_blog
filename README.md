@@ -1,0 +1,1 @@
+It was made using simple django codes you can visit actual site by link below describtion you can go and check it(I had to create blogs and I created them and most of them are joke blogs) thanks for reading and visiting.
